@@ -15,7 +15,7 @@ int main(){
    else if(units>300){
 
    bill=units*5;
-
+else if (shahmeer was here)
 }
    else {
       bill=bill*2;
